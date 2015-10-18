@@ -1,5 +1,6 @@
-# di_player
-Digitally Imported player for elementary OS Freya
+# Digitally Imported Player
+
+Digitally Imported player that follows elementary's [Human Interface Guidelines](https://elementary.io/docs/human-interface-guidelines).
 
 ## Warning
 
