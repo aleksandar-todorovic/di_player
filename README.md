@@ -14,3 +14,7 @@ This app requires you to have Gtk 3.12 (or newer) and mplayer installed.
 
 * Basic window layout is created.
 * Application can play the stream once he clicks on the play button.
+
+## What needs to be fixed before the package is shipped
+
+See issue [#1](https://github.com/aleksandar-todorovic/di_player/issues/1).
